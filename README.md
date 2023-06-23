@@ -3,7 +3,7 @@ A save of the process needed to build manually OpenCV for Python 3 with CUDA bin
 
 ## Sources and troubleshooting references
 
-The process is based on [this tutorial by Anindya](https://thinkinfi.com/install-opencv-gpu-with-cuda-for-windows-10/) for the step-by-step process with CMake GUI and [this tutorial by James Bowley](https://jamesbowley.co.uk/accelerate-opencv-4-4-0-build-with-cuda-and-python-bindings/) for the process with command line CMake and some troubleshooting.
+The process is based on [this tutorial by Anindya](https://thinkinfi.com/install-opencv-gpu-with-cuda-for-windows-10/) for the step-by-step process with CMake GUI and [this tutorial by James Bowley](https://www.jamesbowley.co.uk/qmd/opencv_cuda_python_windows.html) for the process with command line CMake and some troubleshooting.
 
 #### ImportError: DLL load failed while importing cv2: The specified module could not be found.
 
